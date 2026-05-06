@@ -1,0 +1,6 @@
+name=input("Enter your name:")
+print(name)
+rn=input("Enter your roll number:")
+print(rn)
+cn=input("Enter your class number:")
+print(cn)
